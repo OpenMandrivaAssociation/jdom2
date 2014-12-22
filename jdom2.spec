@@ -1,7 +1,9 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          jdom2
 Version:       2.0.6
-Release:       1%{?dist}
+Release:       1.1
 Summary:       Java manipulation of XML made easy
+Group:         Development/Java
 License:       ASL 1.1 or BSD
 URL:           http://www.jdom.org/
 Source0:       https://github.com/hunterhacker/jdom/archive/JDOM-%{version}.tar.gz
