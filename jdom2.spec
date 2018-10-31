@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:          jdom2
 Version:       2.0.6
-Release:       1.2
+Release:       1.3
 Summary:       Java manipulation of XML made easy
 Group:         Development/Java
 License:       ASL 1.1 or BSD
