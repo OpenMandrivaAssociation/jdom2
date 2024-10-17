@@ -5,7 +5,7 @@ Release:       1.3
 Summary:       Java manipulation of XML made easy
 Group:         Development/Java
 License:       ASL 1.1 or BSD
-URL:           http://www.jdom.org/
+URL:           https://www.jdom.org/
 Source0:       https://github.com/hunterhacker/jdom/archive/JDOM-%{version}.tar.gz
 # originally taken from http://repo1.maven.org/maven2/org/jdom/jdom-contrib/1.1.3/jdom-contrib-1.1.3.pom
 Source1:       jdom-contrib-template.pom
